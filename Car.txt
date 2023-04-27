@@ -1,2 +1,5 @@
 // Harika , bazi kodlar yazdim
  diger developer taskini tamamladi
+
+
+yeni code lar ekledim
